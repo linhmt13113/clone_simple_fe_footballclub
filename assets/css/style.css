@@ -37,7 +37,7 @@ html{
 }
 
 #nav li:hover a {
-    color: red;
+    color: blue;
     background-color: #ccc;
     display: inline-block;
 }
